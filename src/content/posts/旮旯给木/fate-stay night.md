@@ -5,7 +5,7 @@ published: 2025-12-14
 tags:
   - Galgame
   - 攻略
-draft:
+draft: true
 image: ./assets/fate-stay-night-cover.png
 banner: "![[fate-stay-night-cover.png]]"
 ---
